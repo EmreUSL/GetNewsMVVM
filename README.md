@@ -4,4 +4,4 @@
 - You can select the country you want from the country settings menu and read the news of that country.
  
 - In this app
-  - 
+  - I used mvvm design pattern
