@@ -5,6 +5,10 @@
  
  
 - In this app : 
-  - I used MVVM design pattern
-  - I used https://newsapi.org as the main API
-  - I used [https://github.com/Alamofire/Alamofire] for the network layer
+  - Is used MVVM design pattern
+  - Is used  https://newsapi.org as the main API
+  - Is used [Alamofire](https://github.com/Alamofire/Alamofire) to fetch HTTPS data.
+  - Is used [KingFisher](https://github.com/onevcat/Kingfisher) to cache images.
+
+  
+# Still being developed
